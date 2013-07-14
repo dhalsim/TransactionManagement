@@ -1,0 +1,16 @@
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.exe.config
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.csprojResolveAssemblyReference.cache
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.exe
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.pdb
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\nunit.framework.dll
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\nunit.framework.xml
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.exe
+c:\users\baydek\documents\visual studio 2012\Projects\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.pdb
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\FluentNHibernate.dll
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\Iesi.Collections.dll
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\NHibernate.dll
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\FluentNHibernate.xml
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\Iesi.Collections.xml
+C:\Users\baydek\Documents\Visual Studio 2012\Projects\TransactionManagement\TransactionManagement\bin\Debug\NHibernate.xml
